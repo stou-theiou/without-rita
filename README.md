@@ -145,6 +145,7 @@
 | Να πάμε για τη Βούλα      |    |              |      |Μ-Γ| 2 | Ζεϊμπέκικο |
 | Παράπονα και κλάμματα     |    |              |      ||  |  |
 | Το κορίτσι απόψε θέλει    |    |              |      |Γ| |  |
+| Το κουρασμένο βήμα σου    |    |              |      |Γ-Ρι| |  |
 
 [Μαύρα μάτια μαύρα φρύδια]: <http://www.stixoi.info/stixoi.php?info=Lyrics&act=details&song_id=2397>
 [Ο ξενύχτης]: <http://www.stixoi.info/stixoi.php?info=Lyrics&act=details&song_id=18151>
