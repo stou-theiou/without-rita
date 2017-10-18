@@ -186,6 +186,8 @@
 | Όσο βαρια ειναι τα σιδερα|    |              |      |?| |  |
 | Κολωνάκι-Τζιτζιφιές      |    |              |      |?| |  |
 | Ώιντε μπρε               |    | Χατζηχρήστος |      |?| |  |
+| Μπιλαντέρια              |    |              |      |Γ| |  |
+| Απ´τον καημό μου πίνω    |    |              |      |Γ| |  |
 
 [Μαύρα μάτια μαύρα φρύδια]: <http://www.stixoi.info/stixoi.php?info=Lyrics&act=details&song_id=2397>
 [Ο ξενύχτης]: <http://www.stixoi.info/stixoi.php?info=Lyrics&act=details&song_id=18151>
