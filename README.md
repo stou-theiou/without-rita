@@ -191,6 +191,9 @@
 | Μπιλαντέρια              |    |              |      |Γ| |  |
 | Απ´τον καημό μου πίνω    |    | Σκαρβέλης    |      |Γ| |  |
 | Θα χαθώ μικρή μου        |    | Σκαρβέλης    |      |Γ| |  |
+| Μες στην παλιά την Κοκκινιά |Dm|              |Βb,Gm,F,C.Dm|Μ-Γ|| |
+
+
 
 [Μαύρα μάτια μαύρα φρύδια]: <http://www.stixoi.info/stixoi.php?info=Lyrics&act=details&song_id=2397>
 [Ο ξενύχτης]: <http://www.stixoi.info/stixoi.php?info=Lyrics&act=details&song_id=18151>
